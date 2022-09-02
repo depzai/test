@@ -5,6 +5,11 @@ To commit:
 Add to staging area: git add file.py
 Commit: git commit -m "any comments"
 
+to add all files in dir: git add .
+
 To check commits: git log
 
 Add new file: touch file.py
+
+
+Go back to previous commit: git checkout 
