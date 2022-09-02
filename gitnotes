@@ -12,4 +12,10 @@ To check commits: git log
 Add new file: touch file.py
 
 
-Go back to previous commit: git checkout 
+Go back to previous commit: git checkout 55839457d0c41903bb3d1f1c4ff1e5f93af02442
+Undo: git switch
+or git checkout master to gfet back to master
+
+BRANCHES:
+to know which branch yoyu are in: git branch
+git branch newbranch
