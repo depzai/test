@@ -1,0 +1,5 @@
+In folder: git init
+git status to see commit status
+
+To commit:
+Add to staging area: git add 
