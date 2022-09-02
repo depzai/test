@@ -19,3 +19,10 @@ or git checkout master to gfet back to master
 BRANCHES:
 to know which branch yoyu are in: git branch
 git branch newbranch
+to get to new branch: git checkout newbranch
+
+MERGE:
+in master: git merge newbranch
+
+PUSH:
+git remote add origin https://github.com/depzai/test.git
