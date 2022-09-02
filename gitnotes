@@ -1,5 +1,10 @@
 In folder: git init
-git status to see commit status
+git status to see commit status and modified files
 
 To commit:
-Add to staging area: git add 
+Add to staging area: git add file.py
+Commit: git commit -m "any comments"
+
+To check commits: git log
+
+Add new file: touch file.py
